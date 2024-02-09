@@ -1,6 +1,5 @@
 # Code generator to generate code for everything contained in COM type
 # libraries.
-from __future__ import print_function
 import ctypes
 import keyword
 import logging
